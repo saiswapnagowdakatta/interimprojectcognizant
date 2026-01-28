@@ -1,4 +1,5 @@
 //this is driversetup class
+// your specified browser will be created here in which you want to automate
 package driversetup;
 import java.time.Duration;
 import org.openqa.selenium.WebDriver;
